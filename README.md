@@ -19,7 +19,7 @@ Khi gặp trạng thái mục tiêu (trangThaiMucTieu), thuật toán dừng và
 
 ### 1.3. Demo
 <p align="center">
-  <img src="/BFS.gif" width="600" alt="Demo BFS">
+  <img src="./BFS.gif" width="600" alt="Demo BFS">
 </p>
 
 2.Depth-First Search (DFS)
