@@ -19,7 +19,6 @@ Khi gặp trạng thái mục tiêu (trangThaiMucTieu), thuật toán dừng và
 
 1.3. Demo
 
-![BFS](https://github.com/user-attachments/assets/c2f19f55-a59b-4dc2-8e07-b9955ad3a9d6)
 
 2.Depth-First Search (DFS)
 
