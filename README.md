@@ -66,7 +66,7 @@ pip --version
 | 1 | **BFS** - Breadth-First Search | Tìm kiếm theo chiều rộng | ![BFS Demo](images/BFS.gif) |
 | 2 | **DFS** - Depth-First Search | Tìm kiếm theo chiều sâu | ![DFS Demo](images/DFS.gif) |
 | 3 | **IDS** - Iterative Deepening Search | Tìm kiếm sâu dần | ![IDS Demo](images/IDS.gif) |
-| 4 | **DLS** - Depth-Limited Search | Tìm kiếm theo chiều sâu có giới hạn độ sâu | ![IDL Demo](images/IDL.gif) |
+| 4 | **DLS** - Depth-Limited Search | Tìm kiếm theo chiều sâu có giới hạn độ sâu | ![IDL Demo](images/DLS.gif) |
 
 ### 🎯 TÌM KIẾM CÓ THÔNG TIN
 
@@ -74,32 +74,32 @@ pip --version
 |-----|------------|-------|------|
 | 5 | **UCS** - Uniform Cost Search | Tối ưu cost | ![Greedy Demo](images/Greedy.gif) |
 | 6 | **Greedy** - Greedy Best-First | Tham lam theo heuristic | ![Greedy Demo](images/Greedy.gif) |
-| 7 | **A*** - A-star Search | Tối ưu với heuristic | ![A* Demo](images/A_SAO.gif) |
+| 7 | **A*** - A-star Search | Tối ưu với heuristic | ![A* Demo](images/AStar.gif) |
 
 ### 🔒 THỎA MÃN RÀNG BUỘC (CSP)
 
 | STT | Thuật toán | Mô tả | Demo |
 |-----|------------|-------|------|
 | 8 | **Backtracking** | Quay lui cơ bản | ![Backtracking Demo](images/Backtracking.gif) |
-| 9 | **Forward Checking** | Kiểm tra tiến | ![Forward Checking Demo](images/forward%20checking.gif) |
+| 9 | **Forward Checking** | Kiểm tra tiến | ![Forward Checking Demo](images/ForwardChecking.gif) |
 | 10 | **AC-3** - Arc Consistency | Tính nhất quán cung | ![AC-3 Demo](images/AC3.gif) |
 
 ### 🏔️ TÌM KIẾM CỤC BỘ
 
 | STT | Thuật toán | Mô tả | Demo |
 |-----|------------|-------|------|
-| 11 | **Hill Climbing** | Leo đồi | ![Hill Climbing Demo](images/Hill.gif) |
-| 12 | **Simulated Annealing** | Luyện kim mô phỏng | ![Simulated Annealing Demo](images/simulated.gif) |
-| 13 | **Beam Search** | Tìm kiếm chùm | ![Beam Search Demo](images/beam%20search.gif) |
-| 14 | **Genetic Algorithm** | Thuật toán di truyền | ![Genetic Demo](images/genetic.gif) |
+| 11 | **Hill Climbing** | Leo đồi | ![Hill Climbing Demo](images/HillClimbing.gif) |
+| 12 | **Simulated Annealing** | Luyện kim mô phỏng | ![Simulated Annealing Demo](images/SimulatedAnnealing.gif) |
+| 13 | **Beam Search** | Tìm kiếm chùm | ![Beam Search Demo](images/BeamSearch.gif) |
+| 14 | **Genetic Algorithm** | Thuật toán di truyền | ![Genetic Demo](images/Genetic.gif) |
 
 ### 🌳 TÌM KIẾM TRONG MÔI TRƯỜNG PHỨC TẠP
 
 | STT | Thuật toán | Mô tả | Demo |
 |-----|------------|-------|------|
-| 15 | **AND-OR Search** | Tìm kiếm đồ thị AND-OR | ![AND-OR Demo](images/AND%20or%20tree.gif) |
-| 16 | **Unobservable Search** | Tìm kiếm không nhìn thấy | ![AND-OR Demo](images/AND%20or%20tree.gif) |
-| 17 | **Partially Observable** | Tìm kiếm nhìn thấy một phần | ![AND-OR Demo](images/AND%20or%20tree.gif) |
+| 15 | **AND-OR Search** | Tìm kiếm đồ thị AND-OR | ![AND-OR Demo](images/NondeterministicAction.gif) |
+| 16 | **Unobservable Search** | Tìm kiếm không nhìn thấy | ![AND-OR Demo](images/Unobservable.gif) |
+| 17 | **Partially Observable** | Tìm kiếm nhìn thấy một phần | ![AND-OR Demo](images/PartiallyObservable.gif) |
 
 ---
 
