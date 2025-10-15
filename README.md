@@ -17,8 +17,10 @@ Các trạng thái con sinh ra bằng hàm trangThaiTiepTheo() – đặt thêm 
 
 Khi gặp trạng thái mục tiêu (trangThaiMucTieu), thuật toán dừng và dựng lại đường đi bằng trangThaiNguon.
 
-1.3. Demo
-
+### 1.3. Demo
+<p align="center">
+  <img src="/BFS.gif" width="600" alt="Demo BFS">
+</p>
 
 2.Depth-First Search (DFS)
 
