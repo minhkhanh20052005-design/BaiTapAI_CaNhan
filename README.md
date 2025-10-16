@@ -52,9 +52,12 @@ pip --version
 ## 🎮 CÁCH CHẠY CHƯƠNG TRÌNH
 
 - Chạy chương trình trong visual studio code
+
 - Click chuột chọn nút Sinh trạng thái mục tiêu để sinh trạng thái mục tiêu ngẫu nhiên trên bàn cờ bên phải
 - Nhấn vào các nút thuật toán để chạy thuật toán tương ứng
+
 - Bấm reset để xóa trống bàn cờ bên trái và ô thông báo
+
 ---
 
 ## 📊 17 THUẬT TOÁN ĐÃ TRIỂN KHAI
