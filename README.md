@@ -28,7 +28,7 @@ Triển khai bài toán 8 quân hậu sử dụng 17 thuật toán AI khác nhau
 
 ## 🎬 DEMO CHƯƠNG TRÌNH
 
-![Demo Tổng Quan - 8 Quân Xe AI](images/demo.gif)
+![Demo Tổng Quan - 8 Quân Hậu AI](images/demo.gif)
 
 *Minh họa tổng quan giao diện và menu chọn thuật toán*
 
@@ -50,14 +50,10 @@ pip --version
 
 ---
 ## 🎮 CÁCH CHẠY CHƯƠNG TRÌNH
-
-- Chạy chương trình trong visual studio code
-
-- Click chuột chọn nút Sinh trạng thái mục tiêu để sinh trạng thái mục tiêu ngẫu nhiên trên bàn cờ bên phải
-- Nhấn vào các nút thuật toán để chạy thuật toán tương ứng
-
-- Bấm reset để xóa trống bàn cờ bên trái và ô thông báo
-
+- Chạy chương trình trong Visual Studio Code  
+- Click chuột chọn nút **Sinh trạng thái mục tiêu** để sinh trạng thái mục tiêu ngẫu nhiên trên bàn cờ bên phải  
+- Nhấn vào các nút thuật toán để chạy thuật toán tương ứng  
+- Bấm **Reset** để xóa bàn cờ bên trái và ô thông báo
 ---
 
 ## 📊 17 THUẬT TOÁN ĐÃ TRIỂN KHAI
